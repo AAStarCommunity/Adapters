@@ -1,4 +1,4 @@
-module AirAccountSmsAdapter
+module Adapters
 
 go 1.20
 

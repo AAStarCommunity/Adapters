@@ -1,8 +1,8 @@
 package main
 
 import (
-	"AirAccountSmsAdapter/conf"
-	"AirAccountSmsAdapter/infra"
+	"Adapters/conf"
+	"Adapters/infra"
 	"fmt"
 
 	"github.com/totoval/framework/helpers/zone"
