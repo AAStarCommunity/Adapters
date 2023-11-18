@@ -24,6 +24,6 @@ func getCommlist2() {
 
  fmt.Printf("%#v", ports)
  for _, port := range ports {
-  fmt.Printf("Find serial ports: %v\n", port)
+  fmt.Printf("Find serial port: %v\n", port)
  }
 }
