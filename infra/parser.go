@@ -1,16 +1,17 @@
 package infra
 
 import (
-	"AirAccountSmsAdapter/conf"
+	"Adapters/conf"
 	"bytes"
 	"fmt"
-	"github.com/totoval/framework/helpers/log"
 	"io"
-	"k8s.io/apimachinery/pkg/util/json"
 	"net/http"
 	"regexp"
 	"strings"
 	"time"
+
+	"github.com/totoval/framework/helpers/log"
+	"k8s.io/apimachinery/pkg/util/json"
 )
 
 type Qb struct {
