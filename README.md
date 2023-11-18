@@ -8,3 +8,7 @@ Basic instructions:
 3. Get response from the Gateway and send back to the sender.
 
 OK !
+
+```
+Use Go over 1.20 version!
+```
