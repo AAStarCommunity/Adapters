@@ -1,4 +1,9 @@
 # Adapters
+
+**⚠️ 注意：该仓库已停止维护，请前往新仓库进行后续开发。**
+
+**🆕 新仓库地址：[AirAccountSmsAdapter](https://github.com/AAStarCommunity/AirAccountSmsAdapter)**
+
 We will need many adapters, the first is SMS adapter using SIM800/SIM900a chips as adapter.
 To get SMS and parse into instructions, invoke the SDK of sim800 with instructions.
 
